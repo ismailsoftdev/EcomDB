@@ -1,5 +1,22 @@
-# An Ecommerce website DB
-## Database Schema
+# Ecommerce Website Database Schema
+This project provides a database schema for an ecommerce website. It includes tables for products, categories, users, orders, payments, and more. Use it as a foundation for building your own online store.
+
+## Table of Contents
+
+- [Ecommerce Website Database Schema](#ecommerce-website-database-schema)
+  - [Table of Contents](#table-of-contents)
+  - [Product](#product)
+  - [Category](#category)
+  - [Subcategory](#subcategory)
+  - [Tag](#tag)
+  - [ProductTag](#producttag)
+  - [Role](#role)
+  - [User](#user)
+  - [Address](#address)
+  - [Shipping](#shipping)
+  - [Order](#order)
+  - [OrderItem](#orderitem)
+  - [Payment](#payment)
 
 ## Product
  Represents a product for sale on the ecommerce website.
